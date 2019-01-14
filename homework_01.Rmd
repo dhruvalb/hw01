@@ -1,0 +1,112 @@
+---
+title: "Homework_1"
+output: 
+  html_document:
+    keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Deviant Aggressive Behavior Model
+The prompt categorizes causality of deviant aggressive behavior as follows. Theory I, that it is through experience associated with award and punishment. Theory II is that it is symbolic expression of hostility towards authority figures in one's life. Theory III is that such behavior is a rational action of oppressed class. Finally, Theory IV is that such behavior is socialized into a person. Since each one of them has a different root cause, the social policy to reduce deviant aggressive behavior has to vary appropriately.
+
+In case of Theory I being correct, it is important to evaluate the incentives and punishment and evaluate if they are working as intended. Not all punishments are corrective and may just be aggravating the aggressive behavior. Determine the right corrective action and reward appropriately to mitigate deviant aggressive behavior. For instance, if someone stole money to feed themselves, they are less likely to benefit from criminal record and incarceration. An opportunity to find employment and rebuild their lives is necessary.
+
+If Theory II is correct, the individuals who are expressing hostility towards the authority figure should be recommended personal counseling and suggest creative avenues to release the pent-up anger and be able to express oneself in a constructive manner. 
+
+Since Theory III, is a rational response to oppression, policies to remediate that should be systemic and guided by ideal standards of morality and ethics. The immediate changes should be in the legal and the law enforcement should protect the oppressed. However, additional social policies to influence cultural and behavioral should follow the legal changes and protections.
+
+Finally, in case of Theory IV, when deviant environments are causing deviant aggressive behavior in individuals, social engagement and transformation programs can be used. For instance, funding and hosting after school sports or creative activities with strong element of positive role models and mentorships in areas where negative influence is rampant is important.
+
+
+## America's Encounter with Deviant Aggressive Behavior
+
+American society has faced many instances of deviant aggressive behavior in different forms of activist and individual. Each instance needs to be evaluated in depth to understand the cause of the issue and suggest solution accordingly. To address the alarmingly high level of mass shootings in the last four decades, a deep dive into the motivations and characterization of the shooters is important. The number of mass shootings, incidents involving guns with 4 or more fatalities in public spaces, has increased significantly. The perpetrators are from many different backgrounds with various motivations and many have taken their own life after committing the act. While the results are horrifying and saddening in each of the 158 incidents since 1966 (Alacantara, Berkowitz, Lu) and the weapon of choice is the same, different people seem to have different motivations. A few broad categories are political or religious statement, personal dispute, history of mental illness, acts to attract attention to name a few. 
+
+While a lack of complete mental wellness and a loss of humane rationale is a common theme in all case the theories of deviant behavior can be used to somewhat categorize this senselessness. A personal dispute is a common cause leading to mass shooting. Many shooters seem to target teachers, former employees or even family members to express disgruntle. This exemplifies the point of theory II of deviant behavior and shows that such cases should be handled by addressing issues of individuals. Even cases of severe mental illness fall under this category where understanding and working with individuals is necessary to predict and mitigate such occurrences. 
+However, there are other violent acts committed after being incited by religious and political organizations such as ISIS. This would highlight the point of theory III, where someone maybe feeling disenfranchised and neglected and starts believing that a statement to support the cause of organizations that are allegedly against such neglect would provide some relief to the broader well being of people of the same belief. Though individual intervention could help stop an immediate attack a broader, systemic assessment as appropriate to theory III would be needed to eradicate such actions.
+
+Finally, looking at cases of shooters who may not have a specific motive or statement might be seeking media and community attention. Especially amongst juvenile shooters, it seems that might stem from the idea proposed by theory IV. This kind of deviant behavior might be motivated by constantly seeing the media profile and showcase the life of a mass shooter and might think it would help get themselves some attention as well. The effect of how stories are portrayed an what impact does the social understanding of events has on young minds across the nation is an important aspect to consider and evaluate. 
+
+As illustrated in the paragraphs above, unfortunate reoccurring of mass shootings does not fall into a homogenous block of ideology but instead point to the veracity of the four theories of deviant aggressive behavior. Most of the actions of the perpetrators can be categorized into one of the four types and adds to the learning of this type of categorization. 
+
+Reference:
+Alacantara, Berkowitz, Lu,  “The terrible numbers that grow with each mass shooting” https://www.washingtonpost.com/graphics/2018/national/mass-shootings-in-america/?noredirect=on&utm_term=.ac0110a36be5
+
+#Waiting Till Last Minute
+
+It is common to see people waiting until last minute to do things. Whether it is turning in assignments for school, or projects for work, this is a quite common. Even in everyday life many people may wait till last minute to get their taxes done or even Christmas shopping done. There might be many reasons to do so. A few explanations based on observation are: they could have a busy schedule and there might be conflicting priorities, or they don’t know how to prioritize effectively. They lack the support and infrastructure to turn something on time. They could come from a cultural or professional background where hard deadlines are not common and late work is generally accepted making last minute submission a norm. A tendency to procrastinate may have developed due to anxiety of deadline. They may be generally lazy. There could be a lack of motivation to work on some things before the absolute deadline arrives.
+
+From the many reasons, why an individual may choose to turn in work at the last minute, it can be generalized that people who repeatedly complete work last minute may tend to procrastinate. For many people, procrastination stems from anxiety of working on a large task or feeling that the work they produce will not be adequate and take a long time before even starting on the task. The pressure of the deadline forces such people to abandon avoidance behavior and to tackle the task at hand. Primarily because they have no choice. 
+
+Based on this proposed model for why people wait till last minute to submit their work, it can be predicted that they may have started late due to avoidance behavior and did not have adequate time and hence they do not produce quality output. This can be commonly be seen in case of assignment deadlines for students. Starting a term paper two days before it is due does not yield the quality of work that an individual is capable of, even if they get passing results. Additionally, people who submit tasks due very close to the deadline in one arena of life are likely to do so in other aspects. When anxiety and need for perfectionism is stopping one from completing a task, it is very well possible that last minute submission does not yield the desired result, making one feel inadequate and more nervous the next time they need to work on anything of importance reinforcing the habit of procrastination. Or on the flipside, if individuals are able to get by after waiting till the last minute to turn in something, the habit is continually reinforced. 
+
+Alternatively, people often turn in things last minute if they do not have the appropriate support or guidance to complete a difficult task and end up turning it in whenever it is due. Some tasks are tedious and difficult to begin with and may cause worry to turn it in. In such cases, if adequate support is not easily found, people may put off dealing with it until they absolutely must. The support could be in form of resources to explain and demystify the task or find the encouragement in their own ability to handle the task. 
+
+If this proposed alternative model holds true, it can be predicted that the people would only submit something close to the deadline for complex or personally - identified difficult tasks. If it is a relatively straightforward task, then people would not need actual or moral support and should be able to start. The definition of complex will differ from a person to person and that must be taken into consideration while assessing this prediction. On the other hand, a prediction is also that give the appropriate support and guidance people would turn in tasks well in advance and not wait till the deadline. This can be questioned in some cases such as school assignments where students do not utilize the resources available to start and complete assignments in a timely manner. However, it should not automatically invalidate this model. There must be additional inquiry to see if in such situations people know and understand the available resources or an improvement in resource availability needs to be carried out.
+
+The paragraphs above show two models for why people wait till the last minute. These are rather simplified models and corresponding prediction. To be able to test each of the prediction rigorous experimentation must be conducted to see if it holds true for generalizable scale.
+
+
+# Selecting and Fitting the Model 
+
+## Part 1: The performance of a flexible statistical learning method versus inflexible method.
+
+A flexible model is one that can fit many different functional forms for f.
+
+If the sample size is large and the number of predictors are small, a flexible model is better than restrictive as it can capture the learning from the large set of data.
+
+If the number of predictors are small and but the number of observations is large, a flexible model is worse than inflexible model as it will fit the small dataset too well.
+
+If the relation between the predictors and response is non-linear, a flexible model will be better.
+
+If the variance of the error terms is extremely high, a flexible method would be worse as it it is predisposed to overfitting and will fit the noise, increasing the variance.
+
+## Part 2: Bias Variance Decomposition
+
+![Figure 1](./graph.png)
+
+Reasoning: Squared Bias is the error introduced by approximating the real world. It decreases as flexibility increases as a very restrictive model is meant to fit a particular dataset and not necessarily the reality. On the other hand the variance is the amount by which the predicted value would change if we estimated it using a different training data set. Therefore, a more flexible estimator would account for the differences in data and perform better. Hence, the variance increases monotonically as the flexibility increases. Irreducible error is a naturally occur error as models are never a perfect representation of reality and the error is constant across flexibility spectrum. This also serves as a horizontal asymptote for the test MSE as the test MSE will be some value greater than the irreducible error. The Test MSE curve is U-shaped that is the error decreases as the flexibility of the model increases, levels out and then the error starts increasing. The increasing error is caused by the predictor fitting to training data without accurately predicting the true nature of the system. On the other hand the training MSE decreases as flexibility increases as the predictor is trying to fit the data and the error is that of training data.
+
+## Part 3: Bayes Decision Boundary
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(dplyr)
+
+set.seed(1234)
+
+#Generate Data
+X1 = runif(200, -1, 1)
+X2 = runif(200, -1, 1)
+eps = rnorm(200, 0, sqrt(0.25))
+Y = X1 + X1^2 + X2 + X2^2 + eps
+
+#Find Probability
+pr = exp(Y)/(1+exp(Y))
+success_point = 0.5
+Success <- Y > success_point
+
+# Plot with data classified by probability 
+ggplot() + 
+  geom_point(mapping = aes(x = X1, y = X2, color = Success)) + 
+    ggtitle("Conditional Classification of Simulated Data")
+
+
+# Create Grid with Condition to Overlay
+grid <- expand.grid(x = seq(-1 ,1, by=0.05), y = seq(-1, 1, by=0.05)) %>%
+  mutate(bound = ifelse(x + x**2 + y + y**2 > 0.5, "True", "False")) # class labels: simple distance from origin
+
+#Plot original points with Grid
+ggplot() + 
+  geom_point(mapping = aes(x = X1, y = X2, color = Success)) +
+       geom_line(data = grid, aes(x = x, y = y, color = bound)) + # color conditional upon classfication boundary  
+          scale_color_manual(breaks = c("True", "False", "True", "False"), values=c("red", "blue", "purple","pink")) +
+            ggtitle("Conditional Classification of Simulated Data")
+
+
+#Reference Used: https://stackoverflow.com/questions/39822505/drawing-decision-boundaries-in-r
+```
