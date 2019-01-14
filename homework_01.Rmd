@@ -35,9 +35,9 @@ As illustrated in the paragraphs above, unfortunate reoccurring of mass shooting
 Reference:
 Alacantara, Berkowitz, Lu,  “The terrible numbers that grow with each mass shooting” https://www.washingtonpost.com/graphics/2018/national/mass-shootings-in-america/?noredirect=on&utm_term=.ac0110a36be5
 
-#Waiting Till Last Minute
+# Waiting Till Last Minute
 
-It is common to see people waiting until last minute to do things. Whether it is turning in assignments for school, or projects for work, this is a quite common. Even in everyday life many people may wait till last minute to get their taxes done or even Christmas shopping done. There might be many reasons to do so. A few explanations based on observation are: they could have a busy schedule and there might be conflicting priorities, or they don’t know how to prioritize effectively. They lack the support and infrastructure to turn something on time. They could come from a cultural or professional background where hard deadlines are not common and late work is generally accepted making last minute submission a norm. A tendency to procrastinate may have developed due to anxiety of deadline. They may be generally lazy. There could be a lack of motivation to work on some things before the absolute deadline arrives.
+It is common to see people waiting until last minute to do things. Whether it is turning in assignments for school, or projects for work, this is a quite common. Even in everyday life many people may wait till last minute to get their taxes done or even Christmas shopping done. There might be many reasons to do so. A few explanations based on observation are: they could have a busy schedule and there might be conflicting priorities, or they do not know how to prioritize effectively. They lack the support and infrastructure to turn something on time. They could come from a cultural or professional background where hard deadlines are not common and late work is generally accepted making last minute submission a norm. A tendency to procrastinate may have developed due to anxiety of deadline. They may be generally lazy. There could be a lack of motivation to work on some things before the absolute deadline arrives.
 
 From the many reasons, why an individual may choose to turn in work at the last minute, it can be generalized that people who repeatedly complete work last minute may tend to procrastinate. For many people, procrastination stems from anxiety of working on a large task or feeling that the work they produce will not be adequate and take a long time before even starting on the task. The pressure of the deadline forces such people to abandon avoidance behavior and to tackle the task at hand. Primarily because they have no choice. 
 
@@ -65,6 +65,8 @@ If the relation between the predictors and response is non-linear, a flexible mo
 If the variance of the error terms is extremely high, a flexible method would be worse as it it is predisposed to overfitting and will fit the noise, increasing the variance.
 
 ## Part 2: Bias Variance Decomposition
+
+![Figure 1](hw01/graph.PNG)
 
 ![Figure 1](./graph.png)
 
